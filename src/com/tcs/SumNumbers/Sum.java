@@ -16,6 +16,7 @@ public class Sum {
 				t.sum(10);
 				t.sum(10,20);
 				t.sum(10.5,20.4);
+				System.out.println("hi das");
 			}
 		}
 	}
